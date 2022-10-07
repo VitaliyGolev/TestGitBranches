@@ -1,0 +1,10 @@
+This is a main text for Git Test purtpose.
+It will be main version in main branch.
+
+There will be log of next branches - epic and features.
+
+All changes will be done in features branch.
+Epic branches will accomulate changes made in featusres branch.
+
+for test I need 1 epic branch and 6 features branches.
+(main) staged.
